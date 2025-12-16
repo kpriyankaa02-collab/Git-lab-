@@ -1,0 +1,3 @@
+ hello git 
+learning branches - trying to merge 
+add - commit - push - merge conflict - error - pull - commit - push - merge  
